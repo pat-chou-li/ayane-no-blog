@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pat-chou-li.github.io/ayane-no-blog/sitemap.xml
