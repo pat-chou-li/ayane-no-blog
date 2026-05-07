@@ -1,7 +1,7 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://pat-chou-li.github.io/ayene-no-blog',
+  url: 'https://pat-chou-li.github.io/ayane-no-blog',
   lang: 'zh-CN',
   title: 'ayane no blog',
   subtitle: 'Cry to the moon.',
